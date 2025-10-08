@@ -18,6 +18,14 @@ A cross-platform **Task Management Application** built using React Native and Ja
 - **Android Studio & VS Code** – For development and testing  
 
 ## 📸 Screenshots
-(Add images of your app here, like home screen, task list, etc.)
+<img width="297" height="660" alt="image" src="https://github.com/user-attachments/assets/8b55cd40-bd98-4c60-b53a-70a1265ef2d3" />
+<img width="285" height="634" alt="image" src="https://github.com/user-attachments/assets/659ea970-a2ac-4672-bb36-50f30da9ecb4" />
+<img width="274" height="609" alt="image" src="https://github.com/user-attachments/assets/406c3f26-3ac5-432d-9163-43aa3490e66d" />
+<img width="281" height="625" alt="image" src="https://github.com/user-attachments/assets/23b49348-a580-4cdb-90d9-574ec0baf008" />
+<img width="291" height="647" alt="image" src="https://github.com/user-attachments/assets/821aba0d-aa76-45ec-9d66-189776d1209e" />
+
+
+
+
 
 ---
